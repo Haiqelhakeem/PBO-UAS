@@ -34,7 +34,7 @@ public class Main {
         pilihanProgram = inputInt.next();
 
             if (pilihanProgram.equalsIgnoreCase("DANA")) {
-                System.out.println();
+                System.out.println("===================================");
                 System.out.println("Welcome to DANA");
                 // Login DANA
                 System.out.println("Login DANA Untuk Masuk ke Menu");
